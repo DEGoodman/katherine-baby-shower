@@ -1,0 +1,27 @@
+{
+  "name": "katherine-baby-shower",
+  "version": "1.0.0",
+  "description": "I don't fully yet know the specifics of the request for this website, except that it is intended to be essentially just a simple form. I'm going to use this as an opportunity to learn Next.js and tailwind.css",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEGoodman/katherine-baby-shower.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEGoodman/katherine-baby-shower/issues"
+  },
+  "homepage": "https://github.com/DEGoodman/katherine-baby-shower#readme",
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
